@@ -1,0 +1,60 @@
+body {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: blue;
+}
+
+nav {
+  background-color: forestgreen;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  padding: 20px;
+}
+
+#div1 {
+  background-color: red;
+  height: 20vh;
+}
+
+#div2 {
+  background-color: grey;
+}
+
+#nested {
+  background-color: orange;
+  position: relative;
+  margin: auto;
+  padding: 0;
+  width: 40vw;
+}
+
+footer {
+  background-color: magenta;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover {
+  color: blue;
+}
+
+.test {
+  border: solid black 5px;
+  padding: 10px;
+}
